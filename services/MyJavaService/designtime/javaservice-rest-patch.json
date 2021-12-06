@@ -1,0 +1,17 @@
+{
+  "description" : null,
+  "methods" : {
+    "sampleJavaOperation" : [ {
+      "url" : {
+        "value" : "/sampleJavaOperation",
+        "modified" : false
+      },
+      "method" : {
+        "value" : "GET",
+        "modified" : false
+      },
+      "accessSpecifier" : "APP_ONLY",
+      "parameters" : { }
+    } ]
+  }
+}
